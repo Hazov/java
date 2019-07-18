@@ -1,4 +1,5 @@
 package Lesson_2.homework;
 
-public class MyArraySizeException {
+public class MyArraySizeException extends Exception{
+
 }
