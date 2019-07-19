@@ -1,19 +1,19 @@
-package Other.Game1;
+package Other.Game1.Heroes;
 
 
-class Doctor extends Hero {
+public class Doctor extends Hero {
 
     public Doctor(int heal, String name, int damage, int addHeal) {
         super(heal, name, damage, addHeal);
     }
 
     @Override
-    void hit(Hero hero) {
+    public void hit(Hero hero) {
         System.out.println("Доктор не может бить!");
     }
 
     @Override
-    void healing(Hero hero) {
+    public void healing(Hero hero) {
         hero.addHealth(addHeal);
     }
 }

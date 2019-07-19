@@ -1,6 +1,6 @@
-package Other.Game1;
+package Other.Game1.Heroes;
 
-abstract class Hero {
+public abstract class Hero {
 
     protected int health;
     protected String name;
@@ -14,9 +14,9 @@ abstract class Hero {
         this.addHeal = addHeal;
     }
 
-    abstract void hit(Hero hero);
+    public abstract void hit(Hero hero);
 
-    abstract void healing(Hero hero);
+    public abstract void healing(Hero hero);
 
     void causeDamage(int damage) {
         if(health < 0) {
@@ -35,8 +35,8 @@ abstract class Hero {
         this.health += health;
     }
 
-    void info() {
+    public void info() {
 
-        System.out.println(name + " " + (health < 0 ? "Герой мертвый" : health) + " " + damage);
+        System.out.println(name + " " + (health <= 0 ? "Герой мертвый" : health) + " " + damage);
     }
 }

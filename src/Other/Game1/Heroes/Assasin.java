@@ -1,7 +1,7 @@
-package Other.Game1;
+package Other.Game1.Heroes;
 import java.util.Random;
 
-class Assasin extends Hero {
+public class Assasin extends Hero {
 
     int cricitalHit;
     Random random = new Random();
@@ -12,7 +12,7 @@ class Assasin extends Hero {
     }
 
     @Override
-    void hit(Hero hero) {
+    public void hit(Hero hero) {
         if (hero != this) {
             if(health < 0) {
                 System.out.println("Герой погиб и бить не может!");
@@ -24,7 +24,7 @@ class Assasin extends Hero {
     }
 
     @Override
-    void healing(Hero hero) {
+    public void healing(Hero hero) {
         System.out.println("Убийцы не умеют лечить!");
     }
 }
