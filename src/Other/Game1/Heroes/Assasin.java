@@ -23,7 +23,7 @@ public class Assasin extends Hero {
                 } else {
                     hero.causeDamage(cricitalHit);
                     System.out.println(this.name + " нанес урон " + hero.name);
-                }         
+                }
             }
 
         }
