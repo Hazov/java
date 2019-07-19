@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7b57b61-36cf-4841-9202-e1f30523eb65" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Other/Game1/Heroes/Assasin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Game1/Heroes/Assasin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Other/Game1/Battle/TeamForABattle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Game1/Battle/TeamForABattle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,6 +26,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Other/Game1/Battle/TeamForABattle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Hero.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -40,13 +50,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Assasin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            <state relative-caret-position="324">
+              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
               <folding>
-                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="e#1020#1021#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/Other/Game1/Game.java" />
         <option value="$PROJECT_DIR$/src/Other/Game1/Heroes/Hero.java" />
         <option value="$PROJECT_DIR$/src/Other/Game1/Heroes/Assasin.java" />
+        <option value="$PROJECT_DIR$/src/Other/Game1/Battle/TeamForABattle.java" />
       </list>
     </option>
   </component>
@@ -147,6 +158,13 @@
               <item name="gb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Game1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Game1" type="462c0819:PsiDirectoryNode" />
+              <item name="Battle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gb" type="b2602c69:ProjectViewProjectNode" />
@@ -211,7 +229,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563515078082" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563515753973" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
@@ -661,11 +679,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Assasin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="324">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
           <folding>
-            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1020#1021#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/Game1/Battle/TeamForABattle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
