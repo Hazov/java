@@ -1,12 +1,12 @@
 package Other.Game1.Heroes;
 import java.util.Random;
 
-public class Assasin extends Fighter {
+public class Assassin extends Fighter {
 
 
     private Random random = new Random();
 
-    public Assasin(int heal, String name, int damage) {
+    public Assassin(int heal, String name, int damage) {
         super(heal, name, damage);
         this.criticalHit = random.nextInt(20);
     }

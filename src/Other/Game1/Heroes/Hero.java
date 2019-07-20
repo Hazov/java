@@ -1,42 +1,64 @@
 package Other.Game1.Heroes;
 
+import Other.Game1.Battle.Team;
+import Other.Game1.ColorConsole;
+
 public abstract class Hero {
 
+
+    Team team;
+
+    protected int maxHealth;
     protected int health;
     protected String name;
-    protected int damage;
-    protected int addHeal;
 
-    public Hero(int health, String name, int damage, int addHeal) {
+
+    public Hero(int health, String name) {
         this.health = health;
         this.name = name;
-        this.damage = damage;
-        this.addHeal = addHeal;
+        this.maxHealth = health;
+        team = null;
     }
 
-    public abstract void hit(Hero hero);
 
-    public abstract void healing(Hero hero);
+    public int getMaxHealth() {
+        return maxHealth;
+    }
+
+    public void setTeam(Team team) {
+        this.team = team;
+    }
 
     void causeDamage(int damage) {
-        if(health < 0) {
-            System.out.println("Герой уже мертвый!");
-        } else {
             health -= damage;
-        }
+            if(health < 0){
+                health = 0;
+            }
+    }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 
     public int getHealth() {
         return health;
     }
 
-    void addHealth(int health) {
-        this.health += health;
+
+    public String info() {
+        String info = name + "[";
+        info += this.health<=0?ColorConsole.toColorString(ColorConsole.RED, "УМЕР"):(getHealth() + " из " + getMaxHealth());
+        info+="]";
+       return info;
     }
 
-    public void info() {
-
-        System.out.println(name + " " + (health <= 0 ? "Герой мертвый" : health) + " " + damage);
+    @Override
+    public String toString() {
+        if(team == null) return ColorConsole.toColorString(team.colorText, name);
+        return name;
     }
 }
