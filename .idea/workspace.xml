@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7b57b61-36cf-4841-9202-e1f30523eb65" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Other/Game1/Battle/BattleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/Game1/Battle/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/Game1/ColorConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/Game1/Heroes/Assassin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/Game1/Heroes/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/Game1/Heroes/Healer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/14072019/Other/Game1/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/14072019/Other/Game1/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/14072019/Other/Game1/Heroes/Assasin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/14072019/Other/Game1/Heroes/Doctor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/14072019/Other/Game1/Heroes/Doctor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/14072019/Other/Game1/Heroes/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/14072019/Other/Game1/Heroes/Hero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/14072019/Other/Game1/Heroes/Warrior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/14072019/Other/Game1/Heroes/Warrior.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/Game1/Battle/TeamForABattle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/Game1/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Game1/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/Game1/Heroes/Assasin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/Game1/Heroes/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Game1/Heroes/Doctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/Game1/Heroes/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Game1/Heroes/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Other/Game1/Heroes/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Other/Game1/Heroes/Warrior.java" afterDir="false" />
-    </list>
+    <list default="true" id="a7b57b61-36cf-4841-9202-e1f30523eb65" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/src/Other/Game1/Battle/BattleController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="518">
-              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -169,8 +150,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="729" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1198" />
     <option name="height" value="1047" />
   </component>
@@ -449,7 +431,7 @@
     <option name="totallyTimeSpent" value="11109000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.108208954" />
@@ -820,7 +802,7 @@
     <entry file="file://$PROJECT_DIR$/src/Other/Game1/Battle/BattleController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
