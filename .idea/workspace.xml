@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7b57b61-36cf-4841-9202-e1f30523eb65" name="Default" comment="" />
+    <list default="true" id="a7b57b61-36cf-4841-9202-e1f30523eb65" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Password/PassMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/Password/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/PhoneNumbers/MainNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/PhoneNumbers/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson_3/countOfWords/MainCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,80 +19,53 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Other/Game1/Battle/BattleController.java">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_3/PhoneNumbers/PhoneBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="221">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Hero.java">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_3/PhoneNumbers/MainNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="53" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="170">
+              <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_3/MainCollection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="151" selection-start-line="151" selection-end-line="152" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_3/Password/Password.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
-                <element signature="e#791#792#0" expanded="true" />
-                <element signature="e#821#822#0" expanded="true" />
-                <element signature="e#850#851#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Other/Game1/Battle/Team.java">
+        <entry file="file://$PROJECT_DIR$/src/Lesson_3/Password/PassMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2534#2535#0" expanded="true" />
-                <element signature="e#2599#2600#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Healer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Fighter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Other/Game1/ColorConsole.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#678#679#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -141,6 +121,11 @@
         <option value="$PROJECT_DIR$/src/Other/Game1/Game.java" />
         <option value="$PROJECT_DIR$/src/Other/Game1/Battle/BattleController.java" />
         <option value="$PROJECT_DIR$/src/Other/Game1/Battle/Team.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3/countOfWords/MainCount.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3/PhoneNumbers/PhoneBook.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3/PhoneNumbers/MainNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3/Password/Password.java" />
+        <option value="$PROJECT_DIR$/src/Lesson_3/Password/PassMain.java" />
       </list>
     </option>
   </component>
@@ -150,7 +135,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1198" />
@@ -164,8 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,34 +165,14 @@
               <item name="gb" type="b2602c69:ProjectViewProjectNode" />
               <item name="gb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gb" type="b2602c69:ProjectViewProjectNode" />
               <item name="gb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
-              <item name="Test.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="gb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Game1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Game1" type="462c0819:PsiDirectoryNode" />
-              <item name="Battle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gb" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Game1" type="462c0819:PsiDirectoryNode" />
-              <item name="Heroes" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson_3" type="462c0819:PsiDirectoryNode" />
+              <item name="Password" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="gb" type="b2602c69:ProjectViewProjectNode" />
@@ -262,12 +225,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563650602210" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564008989573" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="Project" />
@@ -288,20 +253,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Game">
+  <component name="RunManager" selected="Application.PassMain">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Other.Game1.Game" />
+    <configuration name="MainCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.MainCollection" />
       <module name="14072019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Other.Game1.Heroes.*" />
+          <option name="PATTERN" value="Lesson_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,13 +274,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_2.Main" />
+    <configuration name="MainCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.countOfWords.MainCount" />
       <module name="14072019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_2.*" />
+          <option name="PATTERN" value="Lesson_3.countOfWords.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,13 +288,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_1.Marathon.Main" />
+    <configuration name="MainNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.PhoneNumbers.MainNumbers" />
       <module name="14072019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_1.Marathon.*" />
+          <option name="PATTERN" value="Lesson_3.PhoneNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,13 +302,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_2.MainEx" />
+    <configuration name="PassMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.Password.PassMain" />
       <module name="14072019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_2.*" />
+          <option name="PATTERN" value="Lesson_3.Password.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,13 +316,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainHomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson_2.homework.MainHomeWork" />
+    <configuration name="Password" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson_3.Password.Password" />
       <module name="14072019" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lesson_2.homework.*" />
+          <option name="PATTERN" value="Lesson_3.Password.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,19 +362,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.MainEx" />
-      <item itemvalue="Application.MainHomeWork" />
-      <item itemvalue="Application.Game" />
+      <item itemvalue="Application.MainCollection" />
+      <item itemvalue="Application.MainCount" />
+      <item itemvalue="Application.MainNumbers" />
+      <item itemvalue="Application.Password" />
+      <item itemvalue="Application.PassMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Game" />
-        <item itemvalue="Application.MainHomeWork" />
-        <item itemvalue="Application.MainEx" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PassMain" />
+        <item itemvalue="Application.Password" />
+        <item itemvalue="Application.MainNumbers" />
+        <item itemvalue="Application.MainCount" />
+        <item itemvalue="Application.MainCollection" />
       </list>
     </recent_temporary>
   </component>
@@ -431,10 +396,10 @@
     <option name="totallyTimeSpent" value="11109000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.108208954" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17963752" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -443,7 +408,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43336946" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.43336946" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -697,13 +662,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/Game1/Console.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/Game1/Console.java" />
     <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Warrior.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -754,9 +713,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/Game1/Battle/BattleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#821#822#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Healer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Fighter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
+        <state relative-caret-position="476">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -774,50 +768,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Healer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/Game1/Heroes/Hero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#791#792#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Other/Game1/Battle/BattleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Other/Game1/Battle/Team.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2534#2535#0" expanded="true" />
-            <element signature="e#2599#2600#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3/countOfWords/MainCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3/PhoneNumbers/PhoneBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3/PhoneNumbers/MainNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3/MainCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="151" selection-start-line="151" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3/Password/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lesson_3/Password/PassMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
