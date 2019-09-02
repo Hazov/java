@@ -1,0 +1,47 @@
+<?import javafx.scene.layout.GridPane?>
+<?scenebuilder-stylesheet /styles/style.css?>
+<?import java.net.URL?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.ToolBar?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Label?>
+
+<VBox fx:controller="sample.Controller" fx:id="mainPane"
+      xmlns:fx="http://javafx.com/fxml"
+      minWidth="420" minHeight="600">
+    <stylesheets><URL value="@/styles/style.css"/></stylesheets>
+    <ToolBar fx:id="toolBar" prefHeight="70" >
+        <HBox>
+            <Button fx:id="btnClose" minWidth="45" minHeight="45"
+                    onAction="#close" onMousePressed="#sysMini" onMouseReleased="#sysSt"
+                    GridPane.columnSpan="1"
+                    GridPane.halignment="CENTER" GridPane.valignment="CENTER"/>
+            <Label fx:id="nameApp">Gauss</Label>
+        </HBox>
+
+    </ToolBar>
+    <TextArea fx:id="msgs" prefHeight="520" editable="false">
+        <VBox.margin> <Insets top="5" bottom="5" left="5" right="5"/> </VBox.margin>
+    </TextArea>
+    <ToolBar fx:id="toolBar2" prefHeight="120" >
+
+       <HBox>
+           <VBox>
+               <TextArea maxHeight="60" prefWidth="270" fx:id="userField" onKeyPressed="#sendMsgOnKeys">
+                   <VBox.margin><Insets top="20"/> </VBox.margin>
+               </TextArea>
+               <Label fx:id="notifyLabel">Ctrl+Enter</Label>
+           </VBox>
+
+           <Button fx:id="sendBtn" minWidth="110" minHeight="110"
+                   onAction="#sendMsg"
+                   GridPane.columnSpan="1"
+                   GridPane.halignment="CENTER" GridPane.valignment="CENTER"/>
+       </HBox>
+    </ToolBar>
+</VBox>
+
